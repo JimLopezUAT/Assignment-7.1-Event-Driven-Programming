@@ -1,0 +1,33 @@
+/* Add your custom styles here */
+
+/* Body properties */
+body {
+  background-color: #81cdff;
+  color: #555555;
+}
+
+/* Navigation properties */
+nav {
+  float: left;
+  padding: 5px;
+}
+
+/* Content properties */
+#content {
+  margin-left: 220px;
+  padding: 20px;
+}
+
+#meme-container {
+  position: relative;
+}
+
+/* Meme image properties */
+#meme-img {
+  position: absolute;
+}
+
+/* Footer properties */
+footer {
+  text-align: center;
+}
